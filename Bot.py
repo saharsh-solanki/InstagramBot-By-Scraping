@@ -299,7 +299,7 @@ class InitiateBot:
             'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8',
             'content-length': '0',
             'content-type': 'application/x-www-form-urlencoded',
-            'cookie': 'mid=YlwjhQAEAAH3KUYsTfgUJp6uNkqy; ig_did=9BFD95F3-E704-4B82-A99D-4C4871D5FE57; ig_nrcb=1; csrftoken=ze4wDAmxqF8JmNZHYfPFzKVmpirP9c8X; ds_user_id=32697756216; shbid="10753\\05432697756216\\0541681742621:01f70a5d5a7c20e0a9c162e83e9d7c7593acebd3ddc416f95ee66aefc1a8ff0c49e06b1b"; shbts="1650206621\\05432697756216\\0541681742621:01f787241bfb872cb08c1295fa76a13bdfaf069a0e375ce2642c5943289b3d22b8ab7ebe"; sessionid=32697756216%3AyeHVYIuZMBlsVC%3A23; ig_lang=gu; rur="EAG\\05432697756216\\0541681746735:01f7110ec98eebb7ea0c1753fbb45bc0a745925ef91ac2a099e0af2c0a7f20e12b268714"; csrftoken=ze4wDAmxqF8JmNZHYfPFzKVmpirP9c8X; ds_user_id=32697756216; ig_did=F08DB571-706C-443C-8509-69605EA811B7; mid=Yl02lwAEAAFR8esVB61TEx_o3MF3; rur="NAO\\05432697756216\\0541681842355:01f79094d5e9f8c01f4a9cae5764e29e40e52171f20d4986ea2300702d43b6cec606fc9d"; sessionid=32697756216%3AyeHVYIuZMBlsVC%3A23; shbid="2522\\05416647639862\\0541681841710:01f793600184b55948f8d87a2d3f23a84d05ce0a5bca0eb495991991575cc546dfe3f8c6"; shbts="1650305710\\05416647639862\\0541681841710:01f7c8e6f490af744a3c6bf60b0ca1345dabc8b464385d701cd9d71dfa5bee3bfba93041"',
+            'cookie': self.cookie_data,
             'origin': 'https://www.instagram.com',
             'referer': 'https://www.instagram.com/sarahy_cast/',
             'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"',
